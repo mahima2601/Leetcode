@@ -12,12 +12,14 @@ Leetcode codes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahima2601/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/mahima2601/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahima2601/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mahima2601/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -31,4 +33,16 @@ Leetcode codes
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/mahima2601/Leetcode/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
