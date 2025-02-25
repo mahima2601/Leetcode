@@ -1,22 +1,41 @@
 class Solution(object):
     def maxProfit(self, prices):
-        if not prices:
-            return 0
+        curr_max = 0 
+        l = 0 
+        r = 1
         n = len(prices)
-        max_list=[]
-        curr_max = 0
-        for i in prices[::-1]:
-
-            if curr_max< i:
-                max_list.append(i)
-                curr_max=i
+        while r<n:
+            if prices[l]<prices[r]:
+                curr_max = max(curr_max, prices[r]-prices[l])
+                r +=1
             else:
-                max_list.append(curr_max)
+                l = r
+                r = l+1
+        return curr_max
 
-        cmax = 0
-        for i in range(n):
-            cmax = max(cmax, max_list[n-1-i]-prices[i])
-        return cmax
+            
+
+
+
+
+
+        # if not prices:
+        #     return 0
+        # n = len(prices)
+        # max_list=[]
+        # curr_max = 0
+        # for i in prices[::-1]:
+
+        #     if curr_max< i:
+        #         max_list.append(i)
+        #         curr_max=i
+        #     else:
+        #         max_list.append(curr_max)
+
+        # cmax = 0
+        # for i in range(n):
+        #     cmax = max(cmax, max_list[n-1-i]-prices[i])
+        # return cmax
 
         
 
