@@ -6,14 +6,12 @@ class Solution(object):
         max_list=[]
         curr_max = 0
         for i in prices[::-1]:
-            curr_max = max(curr_max,i)
-            max_list.append(curr_max)
 
-            # if curr_max< i:
-            #     max_list.append(i)
-            #     curr_max=i
-            # else:
-            #     max_list.append(curr_max)
+            if curr_max< i:
+                max_list.append(i)
+                curr_max=i
+            else:
+                max_list.append(curr_max)
 
         cmax = 0
         for i in range(n):
