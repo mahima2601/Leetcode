@@ -27,6 +27,7 @@ Leetcode codes
 | ------- |
 | [0013-roman-to-integer](https://github.com/mahima2601/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mahima2601/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/mahima2601/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/mahima2601/Leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -36,6 +37,7 @@ Leetcode codes
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahima2601/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mahima2601/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mahima2601/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/mahima2601/Leetcode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
