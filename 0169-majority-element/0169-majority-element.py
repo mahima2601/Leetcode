@@ -1,14 +1,47 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        element={}
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        num="none"
+        count=0
         for i in nums:
-            if i not in element:
-                element[i]=1
+            if count==0:
+                num=i
+            if num==i:
+                count=count+1
             else:
-                element[i]= element[i]+1
-        for i in element:
-            if element[i]>(len(nums)/2):
-                return i
+                count=count-1
+        return num
 
 
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # n=len(nums)
+        # new_n=n/2
+        # count_list={}
+        # for i in nums:
+        #     count_list[i]=nums.count(i)
+        # for num, count in count_list.items():
+        #     if count>new_n:
+        #         return num
