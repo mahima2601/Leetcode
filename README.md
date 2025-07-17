@@ -15,6 +15,7 @@ Leetcode codes
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahima2601/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima2601/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mahima2601/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mahima2601/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/mahima2601/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
@@ -23,6 +24,7 @@ Leetcode codes
 | [0001-two-sum](https://github.com/mahima2601/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mahima2601/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mahima2601/Leetcode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/mahima2601/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima2601/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
@@ -67,6 +69,7 @@ Leetcode codes
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mahima2601/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
