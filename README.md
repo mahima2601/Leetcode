@@ -19,6 +19,7 @@ Leetcode codes
 | [0283-move-zeroes](https://github.com/mahima2601/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/mahima2601/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/mahima2601/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0965-unique-email-addresses](https://github.com/mahima2601/Leetcode/tree/master/0965-unique-email-addresses) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Leetcode codes
 | [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/mahima2601/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/mahima2601/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0965-unique-email-addresses](https://github.com/mahima2601/Leetcode/tree/master/0965-unique-email-addresses) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@ Leetcode codes
 | [0680-valid-palindrome-ii](https://github.com/mahima2601/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/mahima2601/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/mahima2601/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0965-unique-email-addresses](https://github.com/mahima2601/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mahima2601/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
