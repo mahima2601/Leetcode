@@ -8,6 +8,7 @@ Leetcode codes
 | ------- |
 | [0009-palindrome-number](https://github.com/mahima2601/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mahima2601/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/mahima2601/Leetcode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Leetcode codes
 | [0001-two-sum](https://github.com/mahima2601/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mahima2601/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/mahima2601/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mahima2601/Leetcode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/mahima2601/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima2601/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -63,6 +65,7 @@ Leetcode codes
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahima2601/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mahima2601/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/mahima2601/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mahima2601/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/mahima2601/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/mahima2601/Leetcode/tree/master/0680-valid-palindrome-ii) |
