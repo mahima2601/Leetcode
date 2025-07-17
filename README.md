@@ -17,6 +17,7 @@ Leetcode codes
 | [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mahima2601/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mahima2601/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/mahima2601/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/mahima2601/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ Leetcode codes
 | [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mahima2601/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/mahima2601/Leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
