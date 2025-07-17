@@ -1,15 +1,21 @@
-class Solution(object):
-    def isValid(self, s):
+class Solution:
+    def isValid(self, s: str) -> bool:
+        open=("(", "{", "[")
+        close=(")", "}", "]")
+        dic={"(": ")", "{": "}", "[": "]"}
         stack=[]
-        mirror={")":"(", "}":"{","]":"["}
         for i in s:
-            if i in {"(","{","["}:
+            if i in open:
                 stack.append(i)
-            else:
-                if (len(stack)!=0) and mirror[i]==stack[-1]:
-                    stack.pop()
-                else:
+            elif i in close:
+                if not stack or dic[stack[-1]]!=i:
                     return False
-        return len(stack)==0
+                stack.pop()
+            else:
+             return False
+        if stack:
+            return False
+        return True
+
 
         
