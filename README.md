@@ -25,6 +25,7 @@ Leetcode codes
 | [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/mahima2601/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima2601/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/mahima2601/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/mahima2601/Leetcode/tree/master/0782-jewels-and-stones) |
 ## String
@@ -36,6 +37,7 @@ Leetcode codes
 | [0125-valid-palindrome](https://github.com/mahima2601/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/mahima2601/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima2601/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mahima2601/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/mahima2601/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/mahima2601/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -65,6 +67,7 @@ Leetcode codes
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -96,4 +99,8 @@ Leetcode codes
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima2601/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
