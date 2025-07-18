@@ -19,6 +19,7 @@ Leetcode codes
 | [0215-kth-largest-element-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mahima2601/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mahima2601/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/mahima2601/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/mahima2601/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/mahima2601/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/mahima2601/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -148,4 +149,12 @@ Leetcode codes
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mahima2601/Leetcode/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mahima2601/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mahima2601/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
