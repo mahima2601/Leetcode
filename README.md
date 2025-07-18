@@ -24,6 +24,7 @@ Leetcode codes
 | [0643-maximum-average-subarray-i](https://github.com/mahima2601/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mahima2601/Leetcode/tree/master/0645-set-mismatch) |
 | [0965-unique-email-addresses](https://github.com/mahima2601/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1127-last-stone-weight](https://github.com/mahima2601/Leetcode/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Leetcode codes
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1127-last-stone-weight](https://github.com/mahima2601/Leetcode/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
