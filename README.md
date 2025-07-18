@@ -25,6 +25,7 @@ Leetcode codes
 | [0645-set-mismatch](https://github.com/mahima2601/Leetcode/tree/master/0645-set-mismatch) |
 | [0965-unique-email-addresses](https://github.com/mahima2601/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1127-last-stone-weight](https://github.com/mahima2601/Leetcode/tree/master/1127-last-stone-weight) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Leetcode codes
 | [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mahima2601/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/mahima2601/Leetcode/tree/master/0645-set-mismatch) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Leetcode codes
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/mahima2601/Leetcode/tree/master/1127-last-stone-weight) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
