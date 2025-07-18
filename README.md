@@ -21,6 +21,7 @@ Leetcode codes
 | [0283-move-zeroes](https://github.com/mahima2601/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/mahima2601/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/mahima2601/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/mahima2601/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mahima2601/Leetcode/tree/master/0645-set-mismatch) |
 | [0965-unique-email-addresses](https://github.com/mahima2601/Leetcode/tree/master/0965-unique-email-addresses) |
 ## Hash Table
@@ -129,4 +130,8 @@ Leetcode codes
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mahima2601/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
