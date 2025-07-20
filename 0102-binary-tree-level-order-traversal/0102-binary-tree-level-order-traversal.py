@@ -18,12 +18,12 @@ class Solution:
             level = []
             while que:
                 node=que.popleft()
-                level.append(node.val)
-                if node.left:
+                if node:
+                    level.append(node.val)
                     que2.append(node.left)
-                if node.right:
                     que2.append(node.right)
-            result.append(level)
+            if level: 
+                result.append(level)
             que = que2
         return result
             
