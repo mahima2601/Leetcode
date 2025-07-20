@@ -66,6 +66,7 @@ Leetcode codes
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahima2601/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahima2601/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/mahima2601/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mahima2601/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/mahima2601/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -160,4 +161,16 @@ Leetcode codes
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mahima2601/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahima2601/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahima2601/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahima2601/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
