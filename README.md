@@ -8,6 +8,7 @@ Leetcode codes
 | ------- |
 | [0009-palindrome-number](https://github.com/mahima2601/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mahima2601/Leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/mahima2601/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mahima2601/Leetcode/tree/master/0202-happy-number) |
 ## Array
 |  |
@@ -108,6 +109,7 @@ Leetcode codes
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mahima2601/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima2601/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/mahima2601/Leetcode/tree/master/0392-is-subsequence) |
 ## Trie
@@ -191,4 +193,8 @@ Leetcode codes
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mahima2601/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahima2601/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mahima2601/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
