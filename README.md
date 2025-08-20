@@ -26,6 +26,7 @@ Leetcode codes
 | [0643-maximum-average-subarray-i](https://github.com/mahima2601/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mahima2601/Leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/mahima2601/Leetcode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/mahima2601/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0965-unique-email-addresses](https://github.com/mahima2601/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1127-last-stone-weight](https://github.com/mahima2601/Leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -112,6 +113,7 @@ Leetcode codes
 | [0070-climbing-stairs](https://github.com/mahima2601/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima2601/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/mahima2601/Leetcode/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/mahima2601/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Trie
 |  |
 | ------- |
