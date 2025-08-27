@@ -1,47 +1,16 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        num="none"
-        count=0
+        n = len(nums)
+        my_dict = {}
+
+        # Count occurrences
         for i in nums:
-            if count==0:
-                num=i
-            if num==i:
-                count=count+1
+            if i in my_dict:
+                my_dict[i] += 1
             else:
-                count=count-1
-        return num
+                my_dict[i] = 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        # n=len(nums)
-        # new_n=n/2
-        # count_list={}
-        # for i in nums:
-        #     count_list[i]=nums.count(i)
-        # for num, count in count_list.items():
-        #     if count>new_n:
-        #         return num
+        # Find majority element
+        for key, value in my_dict.items():
+            if value > n // 2:
+                return key
