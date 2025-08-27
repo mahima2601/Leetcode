@@ -10,8 +10,7 @@ class Solution:
         if len(s_set)!=len(t_set):
             return False
         
-        
-        if len(s_set)!=len(map_set):
+        elif len(s_set)!=len(map_set):
             return False
         else:
             return True
