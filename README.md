@@ -29,6 +29,7 @@ Leetcode codes
 | [0739-daily-temperatures](https://github.com/mahima2601/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/mahima2601/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0965-unique-email-addresses](https://github.com/mahima2601/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1036-rotting-oranges](https://github.com/mahima2601/Leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/mahima2601/Leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -203,8 +204,13 @@ Leetcode codes
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mahima2601/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahima2601/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1036-rotting-oranges](https://github.com/mahima2601/Leetcode/tree/master/1036-rotting-oranges) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mahima2601/Leetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/mahima2601/Leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
