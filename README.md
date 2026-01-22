@@ -8,6 +8,7 @@ Leetcode codes
 | ------- |
 | [0009-palindrome-number](https://github.com/mahima2601/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mahima2601/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/mahima2601/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mahima2601/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mahima2601/Leetcode/tree/master/0202-happy-number) |
 ## Array
@@ -16,6 +17,7 @@ Leetcode codes
 | [0001-two-sum](https://github.com/mahima2601/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahima2601/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mahima2601/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/mahima2601/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima2601/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/mahima2601/Leetcode/tree/master/0213-house-robber-ii) |
