@@ -34,6 +34,7 @@ Leetcode codes
 | [0747-min-cost-climbing-stairs](https://github.com/mahima2601/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0965-unique-email-addresses](https://github.com/mahima2601/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1036-rotting-oranges](https://github.com/mahima2601/Leetcode/tree/master/1036-rotting-oranges) |
+| [1051-height-checker](https://github.com/mahima2601/Leetcode/tree/master/1051-height-checker) |
 | [1127-last-stone-weight](https://github.com/mahima2601/Leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -112,6 +113,7 @@ Leetcode codes
 | [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mahima2601/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/mahima2601/Leetcode/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/mahima2601/Leetcode/tree/master/1051-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -223,4 +225,8 @@ Leetcode codes
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mahima2601/Leetcode/tree/master/0035-search-insert-position) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mahima2601/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
