@@ -26,6 +26,7 @@ Leetcode codes
 | [0217-contains-duplicate](https://github.com/mahima2601/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mahima2601/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/mahima2601/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mahima2601/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mahima2601/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/mahima2601/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/mahima2601/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@ Leetcode codes
 | [0202-happy-number](https://github.com/mahima2601/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mahima2601/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mahima2601/Leetcode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mahima2601/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/mahima2601/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima2601/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
@@ -95,6 +97,7 @@ Leetcode codes
 | [0141-linked-list-cycle](https://github.com/mahima2601/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/mahima2601/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mahima2601/Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mahima2601/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/mahima2601/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/mahima2601/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/mahima2601/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -110,6 +113,7 @@ Leetcode codes
 | [0169-majority-element](https://github.com/mahima2601/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahima2601/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mahima2601/Leetcode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mahima2601/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/mahima2601/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mahima2601/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/mahima2601/Leetcode/tree/master/0645-set-mismatch) |
@@ -225,6 +229,7 @@ Leetcode codes
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mahima2601/Leetcode/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mahima2601/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting Sort
 |  |
 | ------- |
